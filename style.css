@@ -17,8 +17,7 @@ h3{
     font-size: 35px;
 }
 .links:hover{
-    color:rgba(72, 112, 80, 0.74);
-    border-radius: 20px;
+    color:rgba(127, 241, 150, 0.537);
 }
 div{
     display: block;
@@ -26,4 +25,6 @@ div{
 }
 a{
     color: rgba(24, 251, 69, 0.74);
+    background-color: rgba(105, 171, 91, 0.329);
+    border-radius: 5px;
 }
