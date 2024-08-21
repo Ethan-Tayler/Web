@@ -12,22 +12,18 @@ p{
 }
 h2{
     font-size: 35px;
-    text-align: left;
-    display: inline;
-    margin-right: 1000px;
-}
-img{
-    text-align: left;
-    display: inline-block;
-    
 }
 h3{
     font-size: 35px;
-    text-align: right;
-    display: inline;
-    margin-right: 150px;
-    padding: 50px;
 }
 .links:hover{
-    background-color:aquamarine;
+    color:rgba(72, 112, 80, 0.74);
+    border-radius: 20px;
+}
+div{
+    display: block;
+    text-align: center;
+}
+a{
+    color: rgba(24, 251, 69, 0.74);
 }
