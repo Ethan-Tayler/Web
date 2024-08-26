@@ -3,8 +3,8 @@ h1{
     text-align: center;  
 }
 body{
-    background-color: rgb(16, 53, 27);
-    color: rgba(24, 251, 69, 0.74);
+    background-color: rgb(15, 28, 57);
+    color: rgb(255, 255, 255);
 }
 p{
     text-align: center;
@@ -17,14 +17,19 @@ h3{
     font-size: 35px;
 }
 .links:hover{
-    color:rgba(127, 241, 150, 0.537);
+    color:rgba(157, 249, 252, 0.806);
 }
 div{
     display: block;
     text-align: center;
 }
 a{
-    color: rgba(24, 251, 69, 0.74);
-    background-color: rgba(105, 171, 91, 0.329);
+    color: rgb(255, 255, 255);
+    background-color: rgb(52, 214, 255);
     border-radius: 5px;
+}
+p3{
+    text-align:left;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
 }
