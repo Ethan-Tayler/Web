@@ -39,3 +39,7 @@ p3{
     border-radius: 5px;
     text-decoration: underline;
 }
+.navigation{
+    position: fixed;
+    margin: 30px;
+}
