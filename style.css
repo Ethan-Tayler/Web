@@ -3,7 +3,7 @@ h1{
     text-align: center;  
 }
 body{
-    background-color: rgb(15, 28, 57);
+    background-color: rgb(24, 47, 97);
     color: rgb(255, 255, 255);
 }
 p{
@@ -33,13 +33,16 @@ p3{
     font-size: 20px;
     color: rgb(255, 255, 255);
 }
-.dec{
-    color: rgb(255, 255, 255);
-    background-color: rgb(52, 214, 255);
-    border-radius: 5px;
-    text-decoration: underline;
-}
 .navigation{
     position: fixed;
     margin: 30px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: underline;
+}
+p2{
+    font-size: 25px;
+
 }
