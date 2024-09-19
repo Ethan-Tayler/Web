@@ -11,6 +11,7 @@ body{
 p{
     text-align:center;
     font-size:20px;
+    color:rgb(255, 255, 255);
 }
 h2{
     font-size: 35px;
@@ -50,7 +51,7 @@ p3{
 }
 p2{
     font-size: 25px;
-  
+    color:rgb(255, 255, 255);
 
 }
 .pic{
