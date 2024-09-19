@@ -4,20 +4,22 @@ h1{
 }
 body{
     background-color: rgb(38, 42, 3);
-    text-align: center;
-    width: 100%;
-    display:block;
+    color: rgb(255, 255, 255);
+    background-image: url(Trout.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 p{
-    text-align:center;
+    text-align: center;
     font-size:20px;
+    color:rgba(38, 0, 208, 0.679);
+    font-weight:bold;
 }
 h2{
     font-size: 35px;
 }
 h3{
     font-size: 35px;
-
 }
 .links:hover{
     color:rgba(255, 255, 255, 0.397);
@@ -25,13 +27,11 @@ h3{
 div{
     display: block;
     text-align: center;
-    width: 100%;
 }
 a{
     color: rgb(255, 255, 255);
     background-color: rgb(71,160, 37);
     border-radius: 5px;
-    margin: o auto;
 }
 p3{
     text-align:left;
@@ -41,45 +41,18 @@ p3{
 .navigation{
     position: fixed;
     margin: 30px;
-    text-align: left;
 }
 .title{
-    color: rgb(255, 255, 255);
+    color:rgba(38, 0, 208, 0.679);
     border-radius: 5px;
     text-decoration: underline;
 }
 p2{
     font-size: 25px;
-  
 
-}
-.pic{
-    background-image: url(Trout.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
-
-}
-.pic1{
-    background-image: url(gore-public-gardens-photo.jpg);
-    background-repeat: no-repeat;
-    background-position:center top;
-    background-size: 1000px 500px;
-    
-
-}
-h5{
-    margin-top:100px;
-    margin-bottom:100px;
-    color:rgba(30, 28, 28, 0.235);
 }
 p6{
     font-size: 25px;
     color:aquamarine;
     display: block;
-    text-align: left;
-}
-h7{
-    margin-top:100px;
-    margin-bottom:100px;
-    color: rgb(38, 42, 3);
 }
